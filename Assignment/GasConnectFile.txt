@@ -1,0 +1,119 @@
+Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:Name:vikas  kumar
+Date Of Birth:05/05/1998
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:
+Proof of Identity:-Select-
+Card Number:
+State for issue Ration card:
+Ration Card Number:
+Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:Name:vikas  kumar
+Date Of Birth:05-05-1998
+Father Name:Rajkumar
+Spouse Name:non
+Mother Name:Nisha
+Address:186  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:
+Proof of Identity:Driving License
+Card Number:4565454742
+State for issue Ration card:Haryana
+Ration Card Number:190404
+Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:Name:  
+Date Of Birth:
+Father Name:
+Spouse Name:
+Mother Name:
+Address:  
+Near: 
+City/Town/Village:
+Distric:
+State:-Select-
+PIN Code:
+Mobile No.:
+Email:
